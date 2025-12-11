@@ -1,0 +1,31 @@
+<svg width="70" height="70" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes float{0%{transform:translateY(0)}50%{transform:translateY(-3px)}100%{transform:translateY(0)}}
+    @keyframes glow{0%{filter:drop-shadow(0 0 2px #2563EB)}50%{filter:drop-shadow(0 0 6px #2563EB)}100%{filter:drop-shadow(0 0 2px #2563EB)}}
+    .crt{opacity:.25;animation:scan 1s linear infinite}
+    @keyframes scan{0%{opacity:.1}50%{opacity:.35}100%{opacity:.1}}
+  </style>
+
+  <rect width="100" height="100" fill="#0b1220"/>
+
+  <!-- scanlines -->
+  <g fill="#2563EB">
+    <rect class="crt" width="100" height="2" y="12"/>
+    <rect class="crt" width="100" height="2" y="32"/>
+    <rect class="crt" width="100" height="2" y="52"/>
+    <rect class="crt" width="100" height="2" y="72"/>
+  </g>
+
+  <!-- Pixel C + plus plus -->
+  <g transform="translate(50,50)" style="animation: float 3s ease-in-out infinite, glow 2s ease-in-out infinite;">
+    <rect x="-18" y="-12" width="28" height="8" fill="#2563EB"/>
+    <rect x="-18" y="4" width="28" height="8" fill="#2563EB"/>
+    <rect x="-22" y="-12" width="8" height="24" fill="#2563EB"/>
+    <!-- first + -->
+    <rect x="14" y="-4" width="10" height="4" fill="#2563EB"/>
+    <rect x="18" y="-8" width="2" height="12" fill="#2563EB"/>
+    <!-- second + -->
+    <rect x="26" y="-4" width="10" height="4" fill="#2563EB"/>
+    <rect x="30" y="-8" width="2" height="12" fill="#2563EB"/>
+  </g>
+</svg>

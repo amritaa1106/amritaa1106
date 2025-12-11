@@ -1,0 +1,31 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes crt-flicker { 0%,100% { opacity: .92 } 50% { opacity: .85 } }
+    @keyframes glow { 0% { filter: drop-shadow(0 0 3px #00eaff) } 50% { filter: drop-shadow(0 0 8px #00eaff) } 100% { filter: drop-shadow(0 0 3px #00eaff) } }
+    @keyframes float { 0% { transform: translateY(0) } 50% { transform: translateY(-4px) } 100% { transform: translateY(0) } }
+    .scanline { animation: scan 4s linear infinite; opacity: .12 }
+    @keyframes scan { 0% { transform: translateY(-320px) } 100% { transform: translateY(320px) } }
+    .crt-lines rect { opacity: .07 }
+  </style>
+  <rect width="1200" height="320" fill="#0b1220"/>
+  <g class="crt-lines" fill="#00eaff">
+    <rect width="1200" height="2" y="10"/><rect width="1200" height="2" y="30"/><rect width="1200" height="2" y="50"/><rect width="1200" height="2" y="70"/><rect width="1200" height="2" y="90"/>
+    <rect width="1200" height="2" y="110"/><rect width="1200" height="2" y="130"/><rect width="1200" height="2" y="150"/><rect width="1200" height="2" y="170"/><rect width="1200" height="2" y="190"/>
+    <rect width="1200" height="2" y="210"/><rect width="1200" height="2" y="230"/><rect width="1200" height="2" y="250"/><rect width="1200" height="2" y="270"/><rect width="1200" height="2" y="290"/>
+  </g>
+  <rect class="scanline" width="1200" height="30" fill="#00eaff" />
+  <circle cx="250" cy="80" r="150" fill="#00eaff" opacity="0.08"/>
+  <circle cx="980" cy="250" r="200" fill="#8b5cf6" opacity="0.08"/>
+  <g transform="translate(80, 120)" style="animation: crt-flicker 3s infinite;">
+    <rect x="-20" y="-40" width="650" height="120" rx="12" fill="#0f1a2e" opacity="0.55"/>
+    <text x="10" y="20" font-size="64" font-family="Consolas, monospace" fill="#00eaff" style="animation: glow 2s infinite;">AMRITA HARIHARAN</text>
+    <text x="10" y="65" font-size="26" font-family="Consolas, monospace" fill="#b0dfff">Software Developer ▸ Web Tinkerer</text>
+  </g>
+  <g transform="translate(80, 240)" style="animation: float 4s ease-in-out infinite;">
+    <rect x="0" y="-34" width="440" height="54" rx="10" fill="#111827" opacity="0.75"/>
+    <text x="16" y="5" font-size="24" font-family="Consolas, monospace" fill="#00eaff">📫 amrita.hariharan2006@gmail.com</text>
+  </g>
+  <g transform="translate(600, 180)">
+    <path d="M0 0 C120 -40, 240 40, 360 0" fill="none" stroke="#00eaff" stroke-width="6" stroke-linecap="round" stroke-dasharray="800" style="animation: glow 3s infinite;" />
+  </g>
+</svg>
