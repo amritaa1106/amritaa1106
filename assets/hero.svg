@@ -23,7 +23,7 @@
   </g>
   <g transform="translate(80, 240)" style="animation: float 4s ease-in-out infinite;">
     <rect x="0" y="-34" width="440" height="54" rx="10" fill="#111827" opacity="0.75"/>
-    <text x="16" y="5" font-size="24" font-family="Consolas, monospace" fill="#00eaff">📫 amrita.hariharan2006@gmail.com</text>
+  
   </g>
   <g transform="translate(600, 180)">
     <path d="M0 0 C120 -40, 240 40, 360 0" fill="none" stroke="#00eaff" stroke-width="6" stroke-linecap="round" stroke-dasharray="800" style="animation: glow 3s infinite;" />
