@@ -25,7 +25,7 @@
   <img alt="Lives on GitHub" src="https://img.shields.io/badge/EXP-LEVEL%20UP-22c55e?labelColor=0b1220&style=for-the-badge">
 </p>
 
----
+
 
 ## 🎮 About (Lore)
 
@@ -40,8 +40,7 @@
 
 ## 🕹️ Tech Arcade (Animated Stack)
 
-> These logos will be **animated** (scanline / bounce / glow) once we add assets in `assets/tech/`.  
-> For now, they’re referenced as filenames we’ll supply in the next step.
+
 
 <table align="center" style="width:100%; min-width:720px; border-spacing:14px;">
   <tr>
@@ -89,7 +88,7 @@
 </table>
 
 <p align="center">
-  <em>Tip:</em> If you prefer, we can swap these for <code>skillicons.dev</code> or neon badges as a fallback.
+  
 </p>
 
 ---
@@ -112,20 +111,7 @@
 
 </div>
 
----
 
-## 🏆 High Scores (Trophies — optional)
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amritaa1106&theme=onedark&column=-1" alt="Trophies"/>
-</div>
-
----
-
-## 📦 Inventory (Links)
-
-- <a id="portfolio" href="#">Portfolio — <em>[coming soon]</em></a>  
-- <a href="mailto:amrita.hariharan2006@gmail.com">Email me</a>
 
 ---
 
