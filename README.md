@@ -38,7 +38,7 @@
 
 ---
 
-## 🕹️ Tech Arcade (Animated Stack)
+## 🕹️ Tech Arcade 
 
 
 
@@ -93,7 +93,7 @@
 
 ---
 
-## 🧾 Quest Log (Activity & Stats)
+## 🧾 Quest Log 
 
 <div align="center">
 
