@@ -1,126 +1,123 @@
-<!-- ====== CRT / 90s Videogame README for @amritaa1106 ====== -->
+<!--
+  Amrita Hariharan | GitHub Profile
+  A clean, vibrant developer profile with an emphasis on engineering, creativity and building useful things.
+-->
 
 <div align="center">
 
-  <!-- Retro banner (will swap to an animated CRT later) -->
-  <img src="assets/hero.svg" alt="Amrita Hariharan — Retro Banner" width="1000" />
+  <img src="assets/hero.svg" alt="Amrita Hariharan — developer profile banner" width="100%" />
 
-  <!-- Typing intro (retro terminal vibe) -->
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=2800&pause=900&color=00FFBF&center=true&vCenter=true&width=700&lines=HELLO+PLAYER+2...;WELCOME+TO+AMRITA+%E2%80%99S+DEV+ARCADE;BUILDING+WEB+THINGS+WITH+HEART+%26+PIXELS;PRESS+START+TO+CONTINUE%E2%80%A6" alt="typing intro" />
+  <br />
+
+  <a href="mailto:amrita.hariharan2006@gmail.com">
+    <img src="https://img.shields.io/badge/LET'S%20CONNECT-EMAIL-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/amritaa1106">
+    <img src="https://img.shields.io/badge/GITHUB-AMRITAA1106-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <br /><br />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=19&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=Hey%2C+I'm+Amrita+Hariharan+%F0%9F%91%8B;Computer+Science+%26+Engineering+student;Building+technology+with+purpose+%26+personality;Curious+mind.+Builder's+energy.+Always+learning." alt="Typing introduction" />
 
 </div>
 
 ---
 
-<!-- HUD header -->
-<p align="center">
-  <code>PLAYER:</code> <strong>AMRITA HARIHARAN</strong> &nbsp;•&nbsp;
-  <code>CLASS:</code> Software Developer &nbsp;•&nbsp;
-  <code>EMAIL:</code> <a href="mailto:amrita.hariharan2006@gmail.com">amrita.hariharan2006@gmail.com</a>
-</p>
+## ✦ A little about me
 
-<p align="center">
-  <a href="#portfolio"><img alt="Portfolio placeholder" src="https://img.shields.io/badge/PORTFOLIO-%5BCOMING_SOON%5D-7e22ce?labelColor=0b1220&style=for-the-badge"></a>
-  <a href="mailto:amrita.hariharan2006@gmail.com"><img alt="Email me" src="https://img.shields.io/badge/CONTACT-EMAIL-14b8a6?labelColor=0b1220&style=for-the-badge&logo=gmail"></a>
-  <img alt="Lives on GitHub" src="https://img.shields.io/badge/EXP-LEVEL%20UP-22c55e?labelColor=0b1220&style=for-the-badge">
-</p>
+I'm a **Computer Science & Engineering student at SRM Institute of Science and Technology**, interested in the space where software, AI and creativity meet.
 
+I enjoy turning ideas into working products — from designing interfaces and building full-stack applications to exploring intelligent systems and experimenting with new technologies. I’m equally excited by the engineering behind a product and the experience people have while using it.
 
-
-## 🎮 About (Lore)
-
-> “Pixel-perfect UI meets practical engineering.”  
-
-- 🔭 I love building **interactive, aesthetic, user-friendly** web experiences.  
-- 🌱 Currently exploring **Machine Learning**, **MERN**, and playful **creative coding**.  
-- 💬 Ask me about **Web Dev**, **JavaScript**, **React**, **APIs**.  
-- 📫 Reach me at **amrita.hariharan2006@gmail.com**.
+- 🎓 **Studying:** B.Tech — Computer Science & Engineering
+- 💻 **Interests:** Software Engineering · Artificial Intelligence · Full-Stack Development
+- 🧠 **Exploring:** Machine Learning, product thinking and scalable applications
+- 🚀 **I enjoy:** Building projects, collaborating with people and learning by doing
+- 📫 **Reach me:** [Email](mailto:amrita.hariharan2006@gmail.com)
 
 ---
 
-## 🕹️ Tech Arcade 
-
-
-
-<table align="center" style="width:100%; min-width:720px; border-spacing:14px;">
-  <tr>
-    <td width="28%"><strong>Frontend</strong></td>
-    <td>
-      <!-- Animated SVG/GIF placeholders: to be added -->
-      <img src="assets/tech/react_animated.svg" alt="React (animated)" height="42"/>
-      <img src="assets/tech/nextjs_animated.svg" alt="Next.js (animated)" height="42"/>
-      <img src="assets/tech/tailwind_animated.svg" alt="TailwindCSS (animated)" height="42"/>
-      <img src="assets/tech/bootstrap_animated.svg" alt="Bootstrap (animated)" height="42"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td>
-      <img src="assets/tech/nodejs_animated.svg" alt="Node.js (animated)" height="42"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Databases</strong></td>
-    <td>
-      <img src="assets/tech/mysql_animated.svg" alt="MySQL (animated)" height="42"/>
-      <img src="assets/tech/mongodb_animated.svg" alt="MongoDB (animated)" height="42"/>
-      <img src="assets/tech/supabase_animated.svg" alt="Supabase (animated)" height="42"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>
-      <img src="assets/tech/javascript_animated.svg" alt="JavaScript (animated)" height="42"/>
-      <img src="assets/tech/java_animated.svg" alt="Java (animated)" height="42"/>
-      <img src="assets/tech/html_animated.svg" alt="HTML (animated)" height="42"/>
-      <img src="assets/tech/python_animated.svg" alt="Python (animated)" height="42"/>
-      <img src="assets/tech/c_animated.svg" alt="C (animated)" height="42"/>
-      <img src="assets/tech/cpp_animated.svg" alt="C++ (animated)" height="42"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Tools</strong></td>
-    <td>
-      <img src="assets/tech/git_animated.svg" alt="Git (animated)" height="42"/>
-      <img src="assets/tech/github_animated.svg" alt="GitHub (animated)" height="42"/>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  
-</p>
-
----
-
-## 🧾 Quest Log 
+## 🧰 My toolkit
 
 <div align="center">
 
-  <!-- Activity graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amritaa1106&theme=github-compact&hide_border=true" alt="Activity Graph"/>
+  **Languages**
 
-  <br/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp,html,css" alt="Java, Python, JavaScript, TypeScript, C, C++, HTML and CSS" />
 
-  <!-- Summary cards -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amritaa1106&theme=aura" alt="Profile Details"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amritaa1106&theme=aura" alt="Repos per Language"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amritaa1106&theme=aura" alt="Most Commit Language"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amritaa1106&theme=aura" alt="Stats"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amritaa1106&theme=aura&utcOffset=5" alt="Productive Time"/>
+  <br /><br />
+
+  **Development & Frameworks**
+
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind,bootstrap" alt="React, Next.js, Node.js, Express, FastAPI, Tailwind and Bootstrap" />
+
+  <br /><br />
+
+  **Data & Tools**
+
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,git,github,vscode,figma,postman" alt="MySQL, MongoDB, Supabase, Git, GitHub, VS Code, Figma and Postman" />
 
 </div>
 
+---
 
+## 🚀 Things I've been building
+
+A few areas I enjoy working in:
+
+| Area | What I like exploring |
+| --- | --- |
+| **AI & Intelligent Systems** | Applying machine learning and AI to practical problems |
+| **Full-Stack Development** | Creating complete applications, from intuitive interfaces to reliable APIs |
+| **Product Engineering** | Turning user needs into features, workflows and usable products |
+| **Creative Technology** | Combining design, storytelling and technology to make experiences memorable |
 
 ---
 
-## 🎲 Fun Facts
+## 📊 GitHub at a glance
 
-- Loves everything aviation ✈️  
-- Sometimes feels like an imposter while coding (relatable stat buff: +10 resilience)  
-- Always ready to do something fun 🎉  
+<div align="center">
+
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=amritaa1106&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+
+  <br /><br />
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amritaa1106&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritaa1106&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+
+  <br /><br />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=amritaa1106&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub profile trophies" />
+
+</div>
 
 ---
 
-<p align="center"><small>© 2025 — Insert coin to continue…</small></p>
+## 🌱 Outside the code editor
+
+I'm someone who loves exploring new places, discovering good food, meeting people and finding inspiration in unexpected places. I’m interested in fashion, content creation and the creative side of building a brand, too.
+
+I believe the best work happens when **curiosity meets consistency**.
+
+---
+
+<div align="center">
+
+  ### Thanks for stopping by! ✨
+
+  **Have an idea, a project or just want to talk tech? Let's connect.**
+
+  <a href="mailto:amrita.hariharan2006@gmail.com">
+    <img src="https://img.shields.io/badge/SAY_HELLO-8B5CF6?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Say hello" />
+  </a>
+
+  <br /><br />
+
+  <img src="https://komarev.com/ghpvc/?username=amritaa1106&style=flat&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views" />
+
+  <br />
+
+  <sub>“Stay curious. Keep building. Make it meaningful.”</sub>
+
+</div>
